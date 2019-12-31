@@ -1,0 +1,19 @@
+
+.masthead {
+	height: 100vh;
+	min-height: 500px;
+	background-image: url('lake.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+  }
+  body {
+    margin: auto;
+    font-family: "apercu",sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+	color: #8e9e9e;
+  }
+  .navbar-inner {
+    background-color:transparent;
+}
